@@ -41,6 +41,8 @@ Restart Foundry VTT.
 
 **Forge**: Once satisfied with the configuration, click Forge Item to generate the finished actor-ready item in your world.  Items will appear in the 'Item Architect' folder.
 
+**Feel free to reach out on discord (pbaiani) or log an issue here if you have one.  These are tools (and I have many more I will eventually submit) that I have been building and using in my own foundry sessions for some time.**
+
 ☕ Support the Project
 If this tool saves you prep time, consider supporting the developer!
 
